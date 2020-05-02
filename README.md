@@ -1,2 +1,2 @@
-# OSISP
-osisp labs
+# OSaSP
+OSaSP Linux labs
